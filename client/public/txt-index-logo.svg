@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <rect width="256" height="256" rx="38" fill="#08060f"/>
+  <rect x="14" y="14" width="228" height="228" rx="28" fill="none" stroke="#8dff00" stroke-width="3"/>
+  <path d="M48 72h160M48 184h160" stroke="#a66cff" stroke-width="3" opacity=".8"/>
+  <text x="128" y="116" text-anchor="middle" fill="#f5f2ff" font-family="Arial,sans-serif" font-size="54" font-weight="800" letter-spacing="3">TXT</text>
+  <text x="128" y="154" text-anchor="middle" fill="#8dff00" font-family="Arial,sans-serif" font-size="25" font-weight="700" letter-spacing="4">INDEX</text>
+</svg>
